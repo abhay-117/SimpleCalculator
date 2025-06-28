@@ -1,4 +1,4 @@
-# SimpleCalculator
+# Simple Calculator
 
 This is a basic calculator web application built with HTML, JavaScript, and Node.js + Express. It allows users to perform basic arithmetic operations: Addition, Subtraction, Multiplication, and Division through a simple UI and server-side API.
 
